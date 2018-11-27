@@ -16,7 +16,7 @@ Distributed case: â€œHardware and Spectrum Sharing for Distributed Massive MIMOâ
 Note: The Matlab scripts in this repository will work only for the previous data set.
 
 ## Contact
-If you have some any question or problem you can always contact us: <br>
+If you have any question or problem you can always contact us: <br>
 
 Andrea P. Guevara: aguevara@esat.kuleuven.be <br>
 Cheng-Ming Chen: cchen@esat.kuleuven.be
