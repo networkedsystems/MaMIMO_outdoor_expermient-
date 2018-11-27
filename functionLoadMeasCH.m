@@ -16,7 +16,7 @@
 %
 function [CHResponseReal,CHResponseImag] = functionLoadMeasCH(NumBSAnt,RowNum)
 
-folder = ['Tower_Monday_Dis_PA\'];
+folder = [''];
 common_filename = [' Scenario  run 1 '];
 Row = ['_Row',num2str(RowNum)];
 filenameReal   = [folder,'NumAnt ',num2str(NumBSAnt),common_filename,'Real',num2str(Row),'.csv'];
