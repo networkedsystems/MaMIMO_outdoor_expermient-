@@ -9,8 +9,8 @@ close
 %Scenario parameters
 %BTS
 NumBSAnt      = 32;         % Number of antennas per array
-NumBSTotalAnt = NumBSAnt*NumArray; % Total number of antennas in the system
 NumArray      = 2;          % Number of arrays
+NumBSTotalAnt = NumBSAnt*NumArray; % Total number of antennas in the system
 
 %UE
 NumRealUE     = 12;         % Number UE per row
