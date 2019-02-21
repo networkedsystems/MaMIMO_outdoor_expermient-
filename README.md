@@ -4,7 +4,7 @@ Authors: Andrea P. Guevara, Cheng-Ming Chen. 2018
 
 ## Instructions
 
-1. Select your MaMIMO antenna distribution (collocated or distributed) according each outdoor experiment detailed here: https://www.esat.kuleuven.be/telemic/research/NetworkedSystems/projects/massive-mimo
+1. Select your MaMIMO antenna distribution (collocated or distributed) according each outdoor experiment detailed here: https://owncloud.esat.kuleuven.be/index.php/s/8rDfASqA6TFCY84
 2. Download the data set to be proccesed in the same folder with the attached Matlab scripts. <br>
 Collocated Data Set: https://owncloud.esat.kuleuven.be/index.php/s/6ogkTwFscfCZLXM <br>
 Distributed Data Set: https://owncloud.esat.kuleuven.be/index.php/s/XypP2r7kYi5Y25q 
