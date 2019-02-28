@@ -10,15 +10,15 @@ Collocated Data Set: https://owncloud.esat.kuleuven.be/index.php/s/6ogkTwFscfCZL
 Distributed Data Set: https://owncloud.esat.kuleuven.be/index.php/s/XypP2r7kYi5Y25q 
 3. This dataset is opened to the academic community for research. If the data is used in your publication, please cite our paper as follows: <br>
 
-@INPROCEEDINGS{8645516, 
-author={A. P. {Guevara} and C. {Chen} and S. {Pollin}}, 
-booktitle={2018 52nd Asilomar Conference on Signals, Systems, and Computers}, 
-title={Hardware and Spectrum Sharing for Distributed Massive MIMO}, 
-year={2018}, 
-pages={619-623}, 
-doi={10.1109/ACSSC.2018.8645516}, 
-ISSN={2576-2303}, 
-month={Oct}, }
+@INPROCEEDINGS{8645516, <br>
+author={A. P. {Guevara} and C. {Chen} and S. {Pollin}}, <br>
+booktitle={2018 52nd Asilomar Conference on Signals, Systems, and Computers}, <br>
+title={Hardware and Spectrum Sharing for Distributed Massive MIMO}, <br>
+year={2018}, <br>
+pages={619-623}, <br>
+doi={10.1109/ACSSC.2018.8645516}, <br>
+ISSN={2576-2303}, <br>
+month={Oct}, }<br>
 
 
 
