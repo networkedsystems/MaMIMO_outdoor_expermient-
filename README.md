@@ -8,8 +8,17 @@ Authors: Andrea P. Guevara, Cheng-Ming Chen. 2018
 2. Download the data set to be proccesed in the same folder with the attached Matlab scripts. <br>
 Collocated Data Set: https://owncloud.esat.kuleuven.be/index.php/s/6ogkTwFscfCZLXM <br>
 Distributed Data Set: https://owncloud.esat.kuleuven.be/index.php/s/XypP2r7kYi5Y25q 
-3. Don't forget to cite our work if any of this data will be used in any kind of publication. <br>
-Distributed case: “Hardware and Spectrum Sharing for Distributed Massive MIMO”; Guevara, Andrea P., Cheng-Ming, Chen, Pollin, Sofie; 52nd IEEE Asilomar Conference on Signals Systems and Computers, 28-31 Nov 2018, Pacific Grove CA, USA.
+3. This dataset is opened to the academic community for research. If the data is used in your publication, please cite our paper as follows: <br>
+
+@INPROCEEDINGS{8645516, 
+author={A. P. {Guevara} and C. {Chen} and S. {Pollin}}, 
+booktitle={2018 52nd Asilomar Conference on Signals, Systems, and Computers}, 
+title={Hardware and Spectrum Sharing for Distributed Massive MIMO}, 
+year={2018}, 
+pages={619-623}, 
+doi={10.1109/ACSSC.2018.8645516}, 
+ISSN={2576-2303}, 
+month={Oct}, }
 
 
 
